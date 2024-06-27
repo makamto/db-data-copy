@@ -1,4 +1,4 @@
-README for Database Data Transfer Script
+Database Table Data Transfer
 =====================================
 
 This script is designed to transfer data from a source PostgreSQL database to a target PostgreSQL database. The script exports data from the source table into a CSV file and then imports the data from the CSV file into the target table.
